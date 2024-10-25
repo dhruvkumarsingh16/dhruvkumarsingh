@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dhruv Kumar Singh - Tech Enthusiast & Coder</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 1em;
+            text-align: center;
+        }
+        nav {
+            text-align: center;
+            padding: 1em;
+        }
+        nav a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #4CAF50;
+        }
+        .container {
+            padding: 2em;
+            max-width: 800px;
+            margin: auto;
+        }
+        h2 {
+            color: #4CAF50;
+            margin-top: 1.5em;
+        }
+        .contact-info {
+            font-style: italic;
+        }
+        footer {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 1em;
+            margin-top: 2em;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Dhruv Kumar Singh</h1>
+        <p>Tech Enthusiast & Coder</p>
+    </header>
+
+    <nav>
+        <a href="#about">About Me</a>
+        <a href="#education">Educational Background</a>
+        <a href="#experience">Experience</a>
+        <a href="#publications">Publications</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <div class="container">
+        <section id="about">
+            <h2>About Me</h2>
+            <p>Hi, I’m Dhruv Kumar Singh—a tech enthusiast and coder with a passion for building creative, impactful projects. My journey is all about combining my love for technology with a drive to make a difference, whether I’m developing a mental health chatbot, creating an interactive educational platform on medicinal plants, or designing unique, customizable merchandise for Gen Z.</p>
+            <p>Outside of tech, you’ll often find me working out or on the court. I’m a big fan of badminton, football, and table tennis, and I believe in keeping the mind and body sharp through sports. This balance keeps me energized and ready to take on new challenges, be it in coding or in life.</p>
+            <p>Thanks for stopping by! Feel free to explore my work, and maybe we’ll connect over a shared interest or two.</p>
+        </section>
+
+        <section id="education">
+            <h2>Educational Background</h2>
+            <ul>
+                <li>10th Grade: Don Bosco School, Liluah</li>
+                <li>12th Grade: M.C. Kejriwal Vidyapeeth</li>
+                <li>Currently: BTech 1st Year, CSE AI & ML, University of Engineering and Management, Kolkata</li>
+            </ul>
+        </section>
+
+        <section id="experience">
+            <h2>Experience</h2>
+            <p>Currently have no experience in working field.</p>
+        </section>
+
+        <section id="publications">
+            <h2>Publications</h2>
+            <p>No publications at this time.</p>
+        </section>
+
+        <section id="achievements">
+            <h2>Awards and Achievements</h2>
+            <p>No awards or achievements yet.</p>
+        </section>
+
+        <section id="projects">
+            <h2>Projects</h2>
+            <p>No projects listed at this time.</p>
+        </section>
+
+        <section id="membership">
+            <h2>Membership</h2>
+            <p>No memberships to list.</p>
+        </section>
+
+        <section id="research">
+            <h2>Research Thrust Area</h2>
+            <p>Interests include Coding, Astronomy, and Physics.</p>
+        </section>
+
+        <section id="events">
+            <h2>Events (Organized/Attended)</h2>
+            <p>Smart Makers Festival - Organized by Institute of Engineering and Management, Kolkata.</p>
+        </section>
+
+        <section id="presentations">
+            <h2>Poster/Paper Presentations</h2>
+            <ul>
+                <li>Flyer Fusion - Introduction to AI and Data Science using Python.</li>
+                <li>Maths Flyer - "Mathematics: The Blueprint for Transforming the World."</li>
+                <li>Basic Electrical Poster - "Empowering Innovation Through Electrical Fundamentals."</li>
+            </ul>
+        </section>
+
+        <section id="courses">
+            <h2>Courses Completed (NPTEL/COURSERA/LinkedIn Learning)</h2>
+            <p>No courses completed yet.</p>
+        </section>
+
+        <section id="contact">
+            <h2>Contact</h2>
+            <p class="contact-info">Address: Merlin Uttara, 94/7 K G.T. Road, Hindmotor, Hooghly - 712233</p>
+            <p class="contact-info">Phone Number: +91 9330270915</p>
+        </section>
+    </div>
+
+    <footer>
+        <p>© 2024 Dhruv Kumar Singh. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
